@@ -16,14 +16,14 @@ This project is a smart security system that uses a **Python-based AI motion det
 
  Tech Stack
 
-   Component and Technology 
-  AI & Motion Detection --> Python + OpenCV
- Backend Server --> Flask (Python) 
- Microcontroller --> ESP8266 (NodeMCU) 
- Messaging --> Telegram Bot API 
- IDEs --> VS Code, Arduino IDE 
- Hosting --> Local Network (LAN) 
-
+| Component | Technology |
+|----------|------------|
+| AI & Motion Detection | Python + OpenCV |
+| Backend Server | Flask (Python) |
+| Microcontroller | ESP8266 (NodeMCU) |
+| Messaging | Telegram Bot API |
+| IDEs | VS Code, Arduino IDE |
+| Hosting | Local Network (LAN) |
 
 🗂️ Project Structure
 
